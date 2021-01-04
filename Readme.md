@@ -1,4 +1,4 @@
-#SpotiPiKids
+# SpotiPiKids
 
 A Spotify based music player for small children.
 

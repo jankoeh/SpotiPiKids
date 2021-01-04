@@ -1,11 +1,15 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+"""
+Handles comunication with spotify
+"""
+
 SPOTIFY_CLI = "/home/pi/.local/bin/spotify"
 DEVICE = '"raspotify (rasppi4)"'
 
 
-def spotify_cmd( cmd ):
+def spotify_cmd(cmd):
     """
     Execute spotify command using SPOTIFY_CLI
     """
